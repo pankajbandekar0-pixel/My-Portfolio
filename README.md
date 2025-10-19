@@ -20,7 +20,7 @@ I’m a passionate **Computer Science student** specializing in **Web Developmen
 
 ## Get in Touch
 - **Email:** pankajbandekar0@gmail.com 
-- **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/pankajbandekar0)  
+- **LinkedIn:** [linkedin.com/in/pankajbandekar0](linkedin.com/in/pankajbandekar0)  
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
 > I’m focused on creating applications that are **impactful, scalable, and secure**, and I’m always excited to collaborate on new ideas and projects!
