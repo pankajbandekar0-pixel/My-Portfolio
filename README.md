@@ -13,6 +13,10 @@ I’m a passionate **Computer Science student** specializing in **Web Developmen
 - **Frameworks & Tools:** React, Node.js, Express, Flask  
 - **Other:** Git/GitHub, Database Management, Cybersecurity Fundamentals  
 
+Image
+<img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/02aa2a62-a032-4251-b562-d31e3e864874" />
+
+
 ## Projects
 - Developed responsive **web applications** with modern UI/UX.  
 - Implemented **secure login systems** and data protection features.  
