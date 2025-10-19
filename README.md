@@ -25,6 +25,6 @@ Image
 ## Get in Touch
 - **Email:** pankajbandekar0@gmail.com 
 - **LinkedIn:** [linkedin.com/in/pankajbandekar0](linkedin.com/in/pankajbandekar0)  
-- **Portfolio:** [https://github.com/pankajbandekar0-pixel/My-Portfolio.git]([https://github.com/pankajbandekar0-pixel/My-Portfolio.git])  
+- **Portfolio:**[My-Portfolio.git]([https://github.com/pankajbandekar0-pixel/My-Portfolio.git])  
 
 > I’m focused on creating applications that are **impactful, scalable, and secure**, and I’m always excited to collaborate on new ideas and projects!
